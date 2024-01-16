@@ -1,6 +1,6 @@
 ### it is i, schlacl. aka i smashed my keyboard, aka kat.🙌
 im interested in making my own little arcade game with my own art assets as of now.
-currently i'm trying to relearn how to code in javascript again, and apply this into unity
+### currently i'm trying to relearn how to code in javascript again, and apply this into unity
 
 <!--
 **schlacl/schlacl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
